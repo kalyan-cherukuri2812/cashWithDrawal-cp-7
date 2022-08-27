@@ -1,0 +1,17 @@
+.list-item {
+  list-style-type: none;
+}
+
+.btn {
+  background-color: #382f5a;
+  border: 2px solid #c4c4c4;
+  color: #c4c4c4;
+  padding: 10px;
+  width: 140px;
+  font-size: 17px;
+  font-weight: 600;
+  border-radius: 10px;
+  margin: 7px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
